@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<locataires>
+	<locataire id_locataire='1'>
+		<nom>Tchahamu</nom>
+		<prenom>Branold</prenom>
+		<adresse1>Bafoussam</adresse1>
+		<adresse2>Douala</adresse2>
+		<code></code>
+		<ville>Bandjou</ville>
+		<num1>658562548</num1>
+		<num2></num2>
+		<mail>Branold@gmail.com</mail>
+	</locataire>
+</locataires>

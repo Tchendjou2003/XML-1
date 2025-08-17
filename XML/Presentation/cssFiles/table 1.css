@@ -1,0 +1,105 @@
+
+
+#contenTable
+{
+	display: block;
+	width : 95%;
+	margin: 20px auto;
+	background-color:white;
+	box-shadow: 0 0 10px;
+	border-radius: 10px;
+}
+
+#titleList
+{
+	margin-top: 25px;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+
+.first{
+
+	font-weight: bold;
+	font-size: 10px;
+}
+
+table
+{
+	border-collapse: collapse;
+	width: 95%;
+	padding: 5px 10px;
+	margin:15px auto;
+
+}
+
+
+tr
+{
+	width: 100%;
+	height: 15px;
+}
+
+td
+{
+	padding:15px;
+	text-align: center;
+
+}
+
+#modify
+{
+	display: block;
+	width: 100px;
+	height: 25px;
+	padding: 8px;
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+	border:1px solid #d5dbd9;
+	border-radius: 5px 5px;
+	background-color: #d5dbd9;
+	transition: background-color 1s
+}
+
+#delete
+{
+	display: block;
+	width: 100px;
+	height: 25px;
+	padding: 8px;
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+	border:1px solid #d5dbd9;
+	border-radius: 5px 5px;
+	background-color: #fadfd0;
+	transition: background-color 1s
+}
+
+#delete:hover
+{
+	background-color: red;
+}
+
+#modify:hover
+{
+	background-color: skyblue;
+}
+
+#alex
+{
+	border-bottom: 10px orange solid;
+}
+
+tr:nth-child(2n)
+{
+	background-color: #f6f8f8;
+}
+
+tr:nth-child(2n) td{
+	border-bottom: 1px solid #e0e0e0;
+}
+
+/* A rechercher Fontawsome*/

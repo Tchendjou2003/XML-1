@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tarifs>
+	
+
+
+	<tarif id_tarif='1'>
+		<prixmax>15000</prixmax>
+		<prixmin>14000</prixmin>
+	</tarif>
+</tarifs>

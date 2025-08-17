@@ -1,0 +1,71 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'helvatica';
+}
+
+
+.marina
+{
+	margin-top: 300px;
+	height: 250px;
+	width: 100%;
+	text-align: center;
+}
+
+form
+{
+	width: 500px;
+	height: 250px;
+	margin: 0px auto;
+	box-shadow: 0 0 10px;
+	padding: 15px 15px;
+	border-radius: 5px 5px;
+}
+
+.field
+{
+	display: flex;
+	text-align: left;
+	width: 60%;
+	height: 30px;
+	margin: 20px auto;
+	align-items: center;
+}
+
+
+label
+{
+	width: 200px;
+	color: #aaa;
+}
+
+.in
+{
+	height: 90%;
+	width: 150px;
+}
+
+span
+{
+	margin-bottom: 10px;
+	text-align: center;
+	font-family: 'poppins';
+	font-size:1.2em; 
+	font-style: italic;
+}
+
+.send
+{
+	margin-top: 10px;
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	border-radius: 3px 3px;
+	border:1px #fcfc solid;
+	background-color: #eee;
+}
+
+
+
+

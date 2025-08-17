@@ -1,0 +1,168 @@
+.content
+{
+	display: none;
+	width : 950px;
+	height: 400px;
+	margin: 20px auto;
+	background-color:white;
+	box-shadow: 0 0 10px;
+	border-radius: 10px;
+}
+
+.content1
+{
+	width : 950px;
+	height: 400px;
+	margin: 20px auto;
+	background-color:white;
+	box-shadow: 0 0 10px;
+	border-radius: 10px;
+}
+
+.form
+{
+	width: 100%;
+	height: 100%;
+}
+
+.field1
+{
+	text-align: left;
+	margin: 20px 30px;
+	width: 50%;
+	height: 30px;
+	display: flex;
+	align-items: center;
+}
+
+.last
+{
+	display: flex;
+	height: 30px;
+	margin: 20px auto;
+	width: 400px;
+	align-items: center;
+}
+
+.test
+{
+	display: flex;
+	margin:15px 15px;
+	padding: 0px auto;
+	align-items: center;
+}
+
+label
+{
+	width: 150px;
+	color: mediumseagreen;
+	font-weight: bold;
+}
+
+select
+{
+	appearance: none;
+	-webkit-appearance: none; 
+	border:1px solid #d5dbd9;
+	width: 220px;
+	height: 100%;
+	padding: 8px 10px;
+	border-radius:3px;
+	outline: none;
+	text-align: left;
+}
+
+input, select
+{
+	width: 220px;
+	outline: none;
+	border:1px solid #d5dbd9;
+	font-size: 15px;
+	padding: 8px 10px;
+}
+
+.in
+{
+	width: 130px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	color: #000;
+	background-color: #dedfde;
+	cursor: pointer;
+	background-color: lightyellow;
+	transition: all ease 1s;
+	margin-right: 25px;
+	border-radius:20px;
+}
+
+.in:hover
+{
+	background-color: darkorange;
+}
+
+#un{
+	position: absolute;
+	width: 600px;
+	margin: 10px 220px;
+	text-align: center;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+.title1
+{
+	text-align: center;
+	font-weight: bold;
+	font-family: arial;
+	font-size:1.5em;
+	padding-bottom: 15px; 
+	padding-top: 15px;
+	color: orange;
+}
+
+#photo::-webkit-file-upload-button
+{
+	visibility: hidden;
+	background:linear-gradient(top, #f9f9f9, #e3e3e3);
+}
+
+#photo::before
+{
+	content: "Choisir une image";
+	align-content: center;
+	cursor: pointer;
+	-webkit-user-select:none;
+	background:linear-gradient(top, #f9f9f9, #e3e3e3);
+	white-space: nowrap;
+	text-shadow:1px 1px #fff;
+}
+
+#photo:hover::before
+{
+	border-color: black;
+}
+
+#photo:active::before
+{
+	background:-webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+}
+
+#photo
+{
+	background-color: #eee;
+	text-align: center;
+}
+
+
+
+table
+{
+	
+}
+
+
+tr
+{	
+	
+}

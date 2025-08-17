@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<users>
+	<user id_user="1">
+		<privilege>1</privilege>
+		<login>alex</login>
+		<password>255555</password>
+	</user>
+	<user id_user="2">
+		<privilege>0</privilege>
+		<login>gyslain</login>
+		<password></password>
+	</user>
+</users>

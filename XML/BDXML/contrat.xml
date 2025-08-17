@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<contrats>
+	<contrat id_contrat='1'>
+		<categorie>actif</categorie>
+		<datecreation>2023-06-08</datecreation>
+		<datedebut>2023-06-22</datedebut>
+		<datefin>2023-06-30</datefin>
+		<locataire>1 (Tchahamu)</locataire>
+		<appartement>1</appartement>
+	</contrat>
+</contrats>

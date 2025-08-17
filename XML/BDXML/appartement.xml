@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<appartements>
+	<appartement id_appartement='1'>
+		<categorie>duplex</categorie>
+		<type>duplex</type>
+		<nbr_personne>4</nbr_personne>
+		<adresse>Douala</adresse>
+		<equipements>canape</equipements>
+		<tarif>1 (50000)</tarif>
+		<proprietaire>1 (alex)</proprietaire>
+	</appartement>
+
+	<appartement id_appartement='2'>
+		<categorie>test</categorie>
+		<type>test</type>
+		<nbr_personne>test</nbr_personne>
+		<adresse>test</adresse>
+		<equipements>test</equipements>
+		<tarif>1 (15000)</tarif>
+		<proprietaire>1 (alex)</proprietaire>
+	</appartement>
+</appartements>
